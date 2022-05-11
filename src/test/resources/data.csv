@@ -6,4 +6,4 @@ Test, amount, registered, expected
 "Registered user, bonus under limit",100060,false,10
 "Registered user, bonus over limit",100000060,false,500
 "Registered user, bonus near limit",4999960,false,499
-"Registered user, no bonus", 999,true,0
+"Registered user, no bonus", 999,false,0
